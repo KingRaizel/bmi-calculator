@@ -9,7 +9,7 @@ The lib folder has 3 sub folders and main.dart file.
 
 Home page -
 
-<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028705.png" width="100">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028705.png" width="200">
 
 other Images - 
 
