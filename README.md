@@ -8,11 +8,13 @@ The lib folder has 3 sub folders and main.dart file.
 4. main.dart file
 
 Home page -
-<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028705.png" width="48">
+
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028705.png" width="100">
 
 other Images - 
-<img src="" width="48">
-<img src="" width="48">
-<img src="" width="48">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028719.png" width="100">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028727.png" width="100">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028742.png" width="100">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028753.png" width = "100">
 
 
