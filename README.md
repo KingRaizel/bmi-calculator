@@ -13,9 +13,9 @@ Home page -
 
 other Images - 
 
-<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028719.png" width="100"><br>
-<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028727.png" width="100"><br>
-<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028742.png" width="100"><br>
-<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028753.png" width = "100">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028719.png" width="200">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028727.png" width="200">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028742.png" width="200">
+<img src="https://github.com/KingRaizel/bmi-calculator/blob/main/assests/Screenshot_1655028753.png" width = "200">
 
 
